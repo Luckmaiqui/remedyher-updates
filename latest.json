@@ -1,0 +1,11 @@
+{
+  "formatVersion": 1,
+  "packageName": "com.companny.remedyher",
+  "versionCode": 5,
+  "versionName": "1.4.0",
+  "minSdk": 23,
+  "size": 82769,
+  "sha256": "238557a1cef909f1ed775c90556a6eac318b8f53a9f3f4187b69b1b77225e575",
+  "downloadUrl": "https://github.com/Luckmaiqui/remedyher-updates/releases/download/v1.4.0/Luna-1.4.0.apk",
+  "notes": "Luna 1.4.0\n\nAtualizações pelo GitHub Releases, com verificação automática, download protegido por SHA-256 e validação da assinatura do aplicativo.\n\nA instalação segue as permissões e confirmações exigidas pelo Android. Formulários e rascunhos adiam a atualização.\n\nInstale esta versão uma vez por cima da anterior, sem desinstalar. Nas próximas versões, use o atualizador em Ajustes."
+}
