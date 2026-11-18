@@ -1,11 +1,11 @@
 {
   "formatVersion": 1,
   "packageName": "com.companny.remedyher",
-  "versionCode": 6,
-  "versionName": "1.4.1",
+  "versionCode": 7,
+  "versionName": "1.5.0",
   "minSdk": 23,
-  "size": 86865,
-  "sha256": "cc97591125c16141f1f7da337af514d4e76d19de9ddbb8162ce1b5ae445da5a0",
-  "downloadUrl": "https://github.com/Luckmaiqui/remedyher-updates/releases/download/v1.4.1/Luna-1.4.1.apk",
-  "notes": "Correções e melhorias do Luna 1.4.1:\n\n- Corrige o botão Excluir registro com uma confirmação dentro do aplicativo.\n- Exclui somente o registro selecionado, preservando outras tomadas do mesmo dia.\n- Recalcula o planejamento ao excluir a última tomada que marca uma retomada na data.\n- Adiciona ícones nas abas, navegação, legenda e ações do calendário, com atalhos para dor/cólica e anotação no dia selecionado.\n- Corrige a exibição das demais confirmações no Android.\n\nInstale por cima da versão anterior para manter as contas e os dados. Nenhuma alteração nas regras do Firebase é necessária."
+  "size": 95057,
+  "sha256": "d574b41d85592c5ca7ed3e46c1f0fe5ce37b557b0e3604b59db5a189939c2b9b",
+  "downloadUrl": "https://github.com/Luckmaiqui/remedyher-updates/releases/download/v1.5.0/Luna-1.5.0.apk",
+  "notes": "Luna 1.5.0\n\n- Bloqueio nativo por senha de 6 dígitos, independente da senha do celular.\n- Criação e confirmação da senha no primeiro acesso após atualizar.\n- Bloqueio ao sair do aplicativo e opção de alterar a senha nos Ajustes, confirmando a senha atual.\n- Senha exclusiva de cada aparelho, protegida pelo Android Keystore, com intervalo após várias tentativas incorretas.\n- Alarmes e alertas com ícone de relógio do Android, cores padrão do sistema e texto discreto, sem destaque magenta.\n\nInstale por cima da versão anterior, sem desinstalar. Nenhuma alteração nas regras do Firebase é necessária. Cada celular deve configurar sua própria senha."
 }
