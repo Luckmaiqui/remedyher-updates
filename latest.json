@@ -1,11 +1,11 @@
 {
   "formatVersion": 1,
   "packageName": "com.companny.remedyher",
-  "versionCode": 7,
-  "versionName": "1.5.0",
+  "versionCode": 8,
+  "versionName": "1.5.1",
   "minSdk": 23,
   "size": 95057,
-  "sha256": "d574b41d85592c5ca7ed3e46c1f0fe5ce37b557b0e3604b59db5a189939c2b9b",
-  "downloadUrl": "https://github.com/Luckmaiqui/remedyher-updates/releases/download/v1.5.0/Luna-1.5.0.apk",
-  "notes": "Luna 1.5.0\n\n- Bloqueio nativo por senha de 6 dígitos, independente da senha do celular.\n- Criação e confirmação da senha no primeiro acesso após atualizar.\n- Bloqueio ao sair do aplicativo e opção de alterar a senha nos Ajustes, confirmando a senha atual.\n- Senha exclusiva de cada aparelho, protegida pelo Android Keystore, com intervalo após várias tentativas incorretas.\n- Alarmes e alertas com ícone de relógio do Android, cores padrão do sistema e texto discreto, sem destaque magenta.\n\nInstale por cima da versão anterior, sem desinstalar. Nenhuma alteração nas regras do Firebase é necessária. Cada celular deve configurar sua própria senha."
+  "sha256": "6fe3f899bd28cff2515ceffeb751a4df7cd6763ad9c1d363e46347a1ecab4085",
+  "downloadUrl": "https://github.com/Luckmaiqui/remedyher-updates/releases/download/v1.5.1/Luna-1.5.1.apk",
+  "notes": "Luna 1.5.1\n\n- Download automático com convite discreto: Instalar agora ou Mais tarde.\n- A instalação só começa por escolha do usuário; baixar, abrir o app ou voltar à conexão não inicia o instalador.\n- Avisos de atualização silenciosos, sem destaque de alta prioridade.\n- Solicita ao Android a instalação sem nova confirmação quando o sistema permite; a autorização para instalar pelo Luna continua sendo necessária.\n- Após atualizar, tenta reabrir na tela de senha. Caso o sistema bloqueie a abertura, um aviso permite abrir com um toque.\n- Mantém proteção de formulários não salvos, senha de bloqueio, assinatura original e validação do APK.\n\nInstale por cima da versão atual. Nenhuma alteração nas regras Firebase é necessária. A confirmação final e a abertura automática dependem das regras do Android e do fabricante."
 }
